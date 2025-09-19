@@ -9,9 +9,9 @@
     <div class="container">
         <nav>
             <ul>
-                <li><a href="index.php">Home</a></li>
-                <li><a href="profil.php">Profil</a></li>
-                <li><a href="medsos.php">Media Sosial</a></li>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="profil.html">Profil</a></li>
+                <li><a href="medsos.html">Media Sosial</a></li>
                 <li><a href="hitungkubus.php">Hitung Kubus</a></li>
             </ul>
         </nav>
